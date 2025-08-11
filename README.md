@@ -32,4 +32,4 @@ Recommendations:
 Increase marketing efforts during peak months identified in the analysis.
 Replicate successful campaign strategies across other campaigns.
 Stock and promote top revenue-generating products to maximize profits.
-Analyze lower-performing campaigns and months to identify areas for improvement.# Customer_dataset
+Analyze lower-performing campaigns and months to identify areas for improvement.
